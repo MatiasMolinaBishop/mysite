@@ -2,7 +2,7 @@ function Header() {
     return (
         <div>
             <div class='links-style'>
-                    <a class="link-color-about" href="/#/projects">Projects</a>
+                    <a class="link-color-about" href="/#/project">Projects</a>
                     <a class="link-color-about" href="/">About</a>
                     <a class="link-color-about" target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1nw_oA2NyTq69CwmaHIMQSzdyYYQvgkOl/view?usp=share_link">Resume</a>
                 </div>
