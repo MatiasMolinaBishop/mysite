@@ -399,38 +399,38 @@
         box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
     } 
     .project-text {
-        font-size: 0.30rem;
+        font-size: 0.4rem;
         text-align: justify;
         margin: 0px 30px 0 30px;
     }
     .text-larger {
-        font-size: 1.8rem;
+        font-size: 1.89rem;
         margin:70px 0px 10px 0px;
     }
     .text-larger2{
-        font-size: 1.9rem;
+        font-size: 1.96rem;
         margin-bottom: 20px;
         margin-top:50px;
     }
     .p-size {
-        font-size: 0.70rem;
+        font-size: 0.8rem;
     }
     h1{
-        font-size: 0.95rem;
+        font-size: 0.99rem;
     }
     h2 {
-        font-size: 0.95rem;
+        font-size: 0.99rem;
         margin:22px;
     }
     h3 {
-        font-size: 0.71rem;
+        font-size: 0.8rem;
     }
     p {
-        font-size: 0.71rem;
+        font-size: 0.8rem;
 
     }
     hr{
-        margin:30px auto;
+        margin:20px auto;
     }
     .links-style2{
         font-size: 0.60rem;
