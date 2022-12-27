@@ -14,7 +14,7 @@ function Content() {
                     <img class="logo" src="CSS/Images/css.webp" alt="csslogo" />
                     <img class="logo" src="CSS/Images/github.png" alt="githublogo" />
                     <img class="logo" src="CSS/Images/htmtl.webp" alt="githublogo" />
-                    <img class="logo" src="CSS/Images/Javascript_logo.png" alt="githublogo" />
+                    <img class="logo" src="CSS/Images/javascript_logo.png" alt="javascriptlogo" />
                     <img class="logo" src="CSS/Images/mongo.jpeg" alt="githublogo" />
                     <img class="logo" src="CSS/Images/nodejs.png" alt="githublogo" />
                     <img class="logo" src="CSS/Images/npm.jpeg" alt="githublogo" />
