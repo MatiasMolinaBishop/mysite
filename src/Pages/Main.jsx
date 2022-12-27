@@ -1,7 +1,13 @@
+import Header from "./Header"
+import Content from "./Content"
+import Footer from "./Footer"
+
 function Main(){
     return(
         <div>
-            <h1>ABOUT</h1>
+            <Header/>
+            <Content/>
+            <Footer/>
         </div>
     )
 }
