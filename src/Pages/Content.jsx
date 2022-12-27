@@ -3,7 +3,7 @@ function Content() {
         <div class="mid-container">
             <div class="profile">
                 <h2>A bit about me.</h2>
-                <p>I am web Developer and civil engineer.</p>
+                <p>I am Web Developer and Civil Engineer.</p>
                 <p>Fascinated by technology and understanding how things work.</p>
                 <p>I also love outdoor sports, viodiography, languages & making music!</p>
             </div>
