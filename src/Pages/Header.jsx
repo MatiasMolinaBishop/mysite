@@ -4,8 +4,8 @@ function Header() {
     return (
         <div>
             <div class='links-style'>
-                <Link className="link-color-about" to={'/mysite/#/project'}>P</Link>
-                <a className="link-color-about" href="/#/project">Projects</a>
+                <Link className="link-color-about" to={'/mysite/#/project'}>LINK HERE</Link>
+                <a className="link-color-about" href="/mysite/#/project">Projects</a>
                 <a className="link-color-about" href="/mysite/">About</a>
                 <a className="link-color-about" target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1nw_oA2NyTq69CwmaHIMQSzdyYYQvgkOl/view?usp=share_link">Resume</a>
             </div>
