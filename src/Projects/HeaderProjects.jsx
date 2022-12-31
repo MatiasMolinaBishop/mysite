@@ -6,7 +6,7 @@ function HeaderProjects() {
             <div class='links-style2'>
                 <Link className="link-color" to='/project'>Projects</Link>
                 <Link className="link-color" to='/'>About</Link>
-                <a className="link-color" target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1nw_oA2NyTq69CwmaHIMQSzdyYYQvgkOl/view?usp=share_link">Resume</a>
+                <a className="link-color" target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1TU29gnjeq5tXBYCz9xGU999TW_tE5L1T/view?usp=share_link">Resume</a>
             </div>
 
             <div className="top-container2">
