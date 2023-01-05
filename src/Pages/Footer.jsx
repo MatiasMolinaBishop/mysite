@@ -6,7 +6,7 @@ function Footer() {
     return (
         <div>
             <div class="contact-me">
-                <h2>Get In Touch</h2>
+                <h2>Get In Touch!</h2>
                 <h3>I'd love to chat about web development, reach out!</h3>
                 <p>You can email me or message me on linkedin.</p>
                 {/* <p>Togetehr we can build the future!.</p> */}
